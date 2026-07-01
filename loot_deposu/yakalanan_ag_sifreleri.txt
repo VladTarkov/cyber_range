@@ -1,0 +1,3 @@
+--- ELE GEÇİRİLEN SİSTEM VERİLERİ (LOOT) ---
+Ağ Kartı Dinleme Modu: HTTP POST Paketleri Yakalandı!
+Yakalanan Giriş Parametresi: [username=vladtarkov&password=SecretSiberAI2026]
