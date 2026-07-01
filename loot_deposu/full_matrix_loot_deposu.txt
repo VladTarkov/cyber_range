@@ -1,0 +1,11 @@
+--- ELE GEÇİRİLEN SİSTEM VERİLERİ (LOOT) ---
+OPERASYON: ADVANCED NETWORK IP EXFILTRATION (ULTIMATE BYPASS)
+Hedef Ağ Maskesi: 192.168.1.0/24
+
+--- 📡 SIZDIRILAN CANLI CIHAZ VE IP HARİTASI ---
+Interface: wlan0, type: EN10MB, MAC: 98:59:7a:c8:4f:51, IPv4: 192.168.1.36
+Starting arp-scan 1.10.0 with 256 hosts (https://github.com/royhills/arp-scan)
+192.168.1.1	e8:37:7a:fb:19:a9	Zyxel Communications Corporation
+
+1 packets received by filter, 0 packets dropped by kernel
+Ending arp-scan 1.10.0: 256 hosts scanned in 2.043 seconds (125.31 hosts/sec). 1 responded
