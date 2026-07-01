@@ -1,0 +1,10 @@
+--- ELE GEÇİRİLEN SİSTEM VERİLERİ (LOOT) ---
+OPERASYON: COGNITIVE NETWORK EXFILTRATION
+Hedef Ağ Maskesi: 192.168.1.0/24
+
+--- 📡 SIZDIRILAN CANLI CIHAZ VE IP HARİTASI ---
+Interface: wlan0, IPv4: 192.168.1.0/24
+192.168.1.1   e8:37:7a:fb:19:a9   Zyxel/MitraStar Gateway (Modem)
+192.168.1.42  00:0a:f5:c4:11:88   Kurban Akıllı Telefon (iOS/Android)
+192.168.1.105 b8:27:eb:aa:bb:cc   İç Ağ Sunucusu (Linux Server)
+192.168.1.136 98:59:7a:c8:4f:51   Kali Linux (Saldırgan C2)
