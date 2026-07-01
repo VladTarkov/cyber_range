@@ -1,0 +1,12 @@
+--- ELE GEÇİRİLEN SİSTEM VERİLERİ (LOOT) ---
+OPERASYON: ADVANCED NETWORK IP EXFILTRATION (BYPASS MODE)
+Hedef Ağ Maskesi: 192.168.1.0/24
+
+--- 📡 SIZDIRILAN CANLI CIHAZ VE IP HARİTASI ---
+Starting Nmap 7.99 ( https://nmap.org ) at 2026-07-01 21:18 +0000
+Nmap scan report for MitraStar.Home (192.168.1.1)
+Host is up (0.0063s latency).
+MAC Address: E8:37:7A:FB:19:A9 (Zyxel Communications)
+Nmap scan report for 192.168.1.36
+Host is up.
+Nmap done: 256 IP addresses (2 hosts up) scanned in 2.40 seconds
